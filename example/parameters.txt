@@ -1,0 +1,8 @@
+inputfile	test.biom.txt
+database	gg_13_8_99.gg.tax
+delim1	tab
+delim2	tab
+printdelim	tab
+headerRowFile1	2
+headerRowFile2	0
+headerRowFile1toPrint	1
